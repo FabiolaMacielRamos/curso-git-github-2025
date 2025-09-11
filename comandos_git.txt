@@ -4,6 +4,7 @@ git add nome_arquivo -> adiciona arquivo para ser comitado
 git commit -m "msg" -> faz commit do que estava para ser commitado
 git log -> mostra todo o histórico de commit
 
+git diff -> mostra o que foi editado, adicionado ou removido
 
 ## FLUXO DE TRABALHO
 
